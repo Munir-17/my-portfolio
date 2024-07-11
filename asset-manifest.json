@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Munir-17/my-portfolio/static/css/main.3c8bc8e1.css",
+    "main.js": "/Munir-17/my-portfolio/static/js/main.54569772.js",
+    "static/js/453.acca0757.chunk.js": "/Munir-17/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/proj6.png": "/Munir-17/my-portfolio/static/media/proj6.937d7bee9debd2a99b61.png",
+    "static/media/proj5.jpg": "/Munir-17/my-portfolio/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj3.webp": "/Munir-17/my-portfolio/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/Munir-17/my-portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/Munir-17/my-portfolio/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/Munir-17/my-portfolio/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "index.html": "/Munir-17/my-portfolio/index.html",
+    "main.3c8bc8e1.css.map": "/Munir-17/my-portfolio/static/css/main.3c8bc8e1.css.map",
+    "main.54569772.js.map": "/Munir-17/my-portfolio/static/js/main.54569772.js.map",
+    "453.acca0757.chunk.js.map": "/Munir-17/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8bc8e1.css",
+    "static/js/main.54569772.js"
+  ]
+}
